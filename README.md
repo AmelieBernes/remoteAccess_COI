@@ -1,4 +1,4 @@
-# AccessingCOI_remoteServers
+# remoteAccess_COI
 
 This is a guide for accessing with ssh to the servers of the "Centro Oncológico Integral" (aka COI).
 I decided to write it since this is the first time I need to interact with a user from a remote computer, and I had a few problems
